@@ -1,0 +1,79 @@
+[*] Extracting targets via Shodan Dork: port:554 "RTSP/1.0 200 OK" country:"IN" city:"Chennai"
+[*] Found 10 targets. Analyzing response pipelines...
+
+[~] Testing path combinations on: 182.73.68.49
+[+] FOUND OPEN STREAM: rtsp://183.83.50.123:554
+[+] FOUND OPEN STREAM: rtsp://220.158.140.5:554
+[+] FOUND OPEN STREAM: rtsp://183.82.37.115:554
+[+] FOUND OPEN STREAM: rtsp://183.82.36.244:554
+[+] FOUND OPEN STREAM: rtsp://183.82.38.60:554
+[+] FOUND OPEN STREAM: rtsp://220.158.140.20:554
+[~] Testing path combinations on: 123.136.162.50
+[~] Testing path combinations on: 103.216.141.77
+[+] FOUND OPEN STREAM: rtsp://183.83.50.68:554
+[+] FOUND OPEN STREAM: rtsp://49.205.77.203:554
+[+] FOUND OPEN STREAM: rtsp://183.82.244.99:554
+[+] FOUND OPEN STREAM: rtsp://137.59.76.211:554
+[+] FOUND OPEN STREAM: rtsp://183.82.37.99:554
+[+] FOUND OPEN STREAM: rtsp://49.205.77.204:554
+[+] FOUND OPEN STREAM: rtsp://137.59.76.243:554
+[+] FOUND OPEN STREAM: rtsp://183.82.246.204:554
+[+] FOUND OPEN STREAM: rtsp://183.82.37.51:554
+[+] FOUND OPEN STREAM: rtsp://183.82.246.122:554
+[+] FOUND OPEN STREAM: rtsp://49.205.77.234:554
+[+] FOUND OPEN STREAM: rtsp://137.59.77.195:554
+[+] FOUND OPEN STREAM: rtsp://183.82.37.131:554
+[+] FOUND OPEN STREAM: rtsp://220.158.140.23:554
+[+] FOUND OPEN STREAM: rtsp://183.82.37.202:554
+[+] FOUND OPEN STREAM: rtsp://220.158.140.108:554
+[+] FOUND OPEN STREAM: rtsp://183.83.50.218:554
+[+] FOUND OPEN STREAM: rtsp://220.158.140.107:554
+[+] FOUND OPEN STREAM: rtsp://220.158.140.109:554
+[+] FOUND OPEN STREAM: rtsp://49.205.77.228:554
+[+] FOUND OPEN STREAM: rtsp://124.123.3.178:554
+[~] Testing path combinations on: 59.92.114.132
+[+] FOUND OPEN STREAM: rtsp://183.82.36.202:554
+[+] FOUND OPEN STREAM: rtsp://137.59.76.171:554
+[+] FOUND OPEN STREAM: rtsp://137.59.76.233:554
+[+] FOUND OPEN STREAM: rtsp://183.83.50.154:554
+[+] FOUND OPEN STREAM: rtsp://183.82.38.42:554
+[+] FOUND OPEN STREAM: rtsp://137.59.76.5:554
+[+] FOUND OPEN STREAM: rtsp://183.82.36.170:554
+[+] FOUND OPEN STREAM: rtsp://137.59.77.131:554
+[+] FOUND OPEN STREAM: rtsp://137.59.77.198:554
+[+] FOUND OPEN STREAM: rtsp://183.82.38.92:554
+[+] FOUND OPEN STREAM: rtsp://183.82.38.44:554
+[+] FOUND OPEN STREAM: rtsp://183.82.38.228:554
+[+] FOUND OPEN STREAM: rtsp://183.82.37.138:554
+[+] FOUND OPEN STREAM: rtsp://183.82.37.220:554
+[+] FOUND OPEN STREAM: rtsp://137.59.77.214:554
+[~] Testing path combinations on: 106.51.180.111
+[+] FOUND OPEN STREAM: rtsp://137.59.76.135:554
+[+] FOUND OPEN STREAM: rtsp://183.82.37.90:554
+[+] FOUND OPEN STREAM: rtsp://183.82.37.98:554
+[+] FOUND OPEN STREAM: rtsp://137.59.78.202:554
+[+] FOUND OPEN STREAM: rtsp://220.158.140.103:554
+[+] FOUND OPEN STREAM: rtsp://183.82.36.178:554
+[+] FOUND OPEN STREAM: rtsp://183.82.36.155:554
+[~] Testing path combinations on: 183.82.38.226
+    [+] Accessible route identified.
+[~] Testing path combinations on: 137.59.77.217
+[+] FOUND OPEN STREAM: rtsp://183.82.244.34:554
+[+] FOUND OPEN STREAM: rtsp://183.82.244.147:554
+[+] FOUND OPEN STREAM: rtsp://106.51.7.187:554
+[+] FOUND OPEN STREAM: rtsp://183.82.37.186:554
+    [+] Accessible route identified.
+[~] Testing path combinations on: 210.18.176.204
+[+] FOUND OPEN STREAM: rtsp://183.82.244.100:554
+[+] FOUND OPEN STREAM: rtsp://183.82.37.92:554
+[+] FOUND OPEN STREAM: rtsp://220.158.140.104:554
+[+] FOUND OPEN STREAM: rtsp://183.82.36.227:554
+[~] Testing path combinations on: 49.205.78.186
+[~] Testing path combinations on: 123.176.34.76
+
+======================================================================
+                    VERIFIED FULL PATH STREAM URLS                     
+======================================================================
+rtsp://183.82.38.226:554
+rtsp://137.59.77.217:554
+======================================================================
