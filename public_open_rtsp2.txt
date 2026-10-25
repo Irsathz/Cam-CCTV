@@ -1,0 +1,21 @@
+base_ranges = [
+  "106.51.244",
+  "124.123.1",
+  "124.123.2",
+  "124.123.3",
+  "117.244.80",
+]
+PORT = 554
+TIMEOUT = 2.0  # Timeout for connection and handshake response
+OUTPUT_FILE = "public_open_rtsp2.txt"
+
+
+
+# Publicly Accessible RTSP Streams (No Auth Required)
+rtsp://117.206.118.54:554/
+rtsp://117.206.118.228:554/
+rtsp://117.206.119.24:554/
+rtsp://117.206.119.33:554/
+rtsp://117.206.119.28:554/
+rtsp://120.60.149.190:554/
+rtsp://120.60.155.165:554/
